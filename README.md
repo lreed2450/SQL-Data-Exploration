@@ -1,2 +1,2 @@
 # SQL-Data-Exploration
-SQL Data exploration using Covid data. Project uses joins, temp tables, aggregate functions, converting data types, and window functions. Link to data: https://ourworldindata.org/covid-deaths. 
+SQL Data exploration using Covid data. Project uses joins, temp tables, aggregate functions, converting data types, and window functions. Project was originally completed in Azure Date Studio. Link to data: https://ourworldindata.org/covid-deaths. 
